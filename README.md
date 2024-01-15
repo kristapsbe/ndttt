@@ -18,3 +18,5 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 ```bash
 curl https://rustwasm.github.io/wasm-pack/installer/init.sh -sSf | sh
 ```
+
+or, maybe not `wasm`, but a `rust` or `go` backend + [htmx](https://htmx.org/) and `javascript` for the frontend. 
